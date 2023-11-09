@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "302916849157",
+    "project_id": "infobyte-assignment-7b68c",
+    "storage_bucket": "infobyte-assignment-7b68c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302916849157:android:da5f2c15bf5689201cd66c",
+        "android_client_info": {
+          "package_name": "com.example.infobyteassignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1mTwJJylxpxAWhP6IIkk9hxHQLhLOvss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

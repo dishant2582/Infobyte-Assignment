@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/watchlist"
+        android:icon="@drawable/baseline_playlist_add_24"
+        android:title="WATCHLIST" />
+
+    <item
+        android:id="@+id/portfolio"
+        android:icon="@drawable/baseline_insert_drive_file_24"
+        android:title="PORTFOLIO" />
+
+    <item
+        android:id="@+id/orders"
+        android:icon="@drawable/baseline_event_note_24"
+        android:title="ORDERS" />
+
+
+    <item
+        android:id="@+id/account"
+        android:icon="@drawable/baseline_person_pin_24"
+        android:title="ACCOUNT" />
+
+</menu>
